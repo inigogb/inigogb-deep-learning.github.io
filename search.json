@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Inigo’s Deep Learning Blog",
+    "section": "",
+    "text": "Here I will post topics about Deep Learning, MLOps and ML Platform engineering. Lessons learned and stuff I find interesting along the way."
+  },
+  {
+    "objectID": "dl_py_25_course.html",
+    "href": "dl_py_25_course.html",
+    "title": "DL_Py_25",
+    "section": "",
+    "text": "Publicare las tareas, ejercicios y temas vistos en el curso de Deep Learning 2025 impartido por el Doctor Héctor Manuel Garduño Castañeda a través la organización educativa de SciData Math"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Senior DevOps Engineer with extensive experience designing and automating cloud-native infrastructure, implementing CI/CD pipelines, and improving reliability across large-scale production environments."
+  }
+]
