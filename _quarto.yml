@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Deep Learning Blog"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - dl_py_25_course.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+

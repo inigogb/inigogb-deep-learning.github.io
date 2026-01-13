@@ -1,0 +1,5 @@
+---
+title: "About Me"
+---
+
+Senior DevOps Engineer with extensive experience designing and automating cloud-native infrastructure, implementing CI/CD pipelines, and improving reliability across large-scale production environments.
