@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Inigo’s Deep Learning Blog",
+    "objectID": "tareas/tarea02.html",
+    "href": "tareas/tarea02.html",
+    "title": "TAREA 02",
     "section": "",
-    "text": "Here I will post topics about Deep Learning, MLOps and ML Platform engineering. Lessons learned and stuff I find interesting along the way."
+    "text": "Supongamos una arquitectura 2-3-2-2"
   },
   {
-    "objectID": "dl_py_25_course.html",
-    "href": "dl_py_25_course.html",
-    "title": "DL_Py_25",
+    "objectID": "tareas/tarea02.html#arquitectura-de-una-red-neuronal",
+    "href": "tareas/tarea02.html#arquitectura-de-una-red-neuronal",
+    "title": "TAREA 02",
     "section": "",
-    "text": "Aquí publicare las tareas, ejercicios y temas vistos en el curso de Deep Learning 2025 impartido por el Doctor Héctor Manuel Garduño Castañeda a través la organización educativa de SciData Math\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Me\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInigo’s Deep Learning Blog\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Supongamos una arquitectura 2-3-2-2"
   },
   {
     "objectID": "about.html",
@@ -19,5 +19,19 @@
     "title": "About Me",
     "section": "",
     "text": "I’m a Senior DevOps Engineer with extensive experience designing and automating cloud-native infrastructure, implementing CI/CD pipelines, and improving reliability across large-scale production environments."
+  },
+  {
+    "objectID": "dl_py_25_course.html",
+    "href": "dl_py_25_course.html",
+    "title": "DL_Py_25",
+    "section": "",
+    "text": "Aquí publicare las tareas, ejercicios y temas vistos en el curso de Deep Learning 2025 impartido por el Doctor Héctor Manuel Garduño Castañeda a través la organización educativa de SciData Math\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Me\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInigo’s Deep Learning Blog\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTAREA 02\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Inigo’s Deep Learning Blog",
+    "section": "",
+    "text": "Here I will post topics about Deep Learning, MLOps and ML Platform engineering. Lessons learned and stuff I find interesting along the way."
   }
 ]
