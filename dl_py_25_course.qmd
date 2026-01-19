@@ -1,5 +1,6 @@
 ---
 title: "DL_Py_25"
+listing: default
 ---
 
 Aquí publicare las tareas, ejercicios y temas vistos en el curso de Deep Learning 2025 impartido por el Doctor Héctor Manuel Garduño Castañeda a través la organización educativa de [SciData Math](https://www.facebook.com/scidata.math/)
