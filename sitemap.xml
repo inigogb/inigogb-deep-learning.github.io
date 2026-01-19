@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://inigogb.github.io/deep-learning-blog/tareas/tarea02.html</loc>
-    <lastmod>2026-01-19T03:47:25.474Z</lastmod>
-  </url>
-  <url>
     <loc>https://inigogb.github.io/deep-learning-blog/about.html</loc>
-    <lastmod>2026-01-19T03:41:16.116Z</lastmod>
+    <lastmod>2026-01-19T03:52:00.917Z</lastmod>
   </url>
   <url>
-    <loc>https://inigogb.github.io/deep-learning-blog/dl_py_25_course.html</loc>
-    <lastmod>2026-01-19T03:49:51.109Z</lastmod>
+    <loc>https://inigogb.github.io/deep-learning-blog/tareas/tarea02.html</loc>
+    <lastmod>2026-01-19T03:52:00.917Z</lastmod>
   </url>
   <url>
     <loc>https://inigogb.github.io/deep-learning-blog/index.html</loc>
-    <lastmod>2026-01-19T03:41:16.116Z</lastmod>
+    <lastmod>2026-01-19T03:52:00.917Z</lastmod>
+  </url>
+  <url>
+    <loc>https://inigogb.github.io/deep-learning-blog/dl_py_25_course.html</loc>
+    <lastmod>2026-01-19T03:52:00.917Z</lastmod>
   </url>
 </urlset>
